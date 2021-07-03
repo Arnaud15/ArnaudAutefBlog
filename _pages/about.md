@@ -4,8 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Hello, my name is Arnaud Autef.
 
+Find me on
+- [Github](https://github.com/Arnaud15/)
+- [Twitter](https://twitter.com/arnaud_autef)
+- [Linkedin](https://www.linkedin.com/in/arnaud-autef-3aa5aa12b/)
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
