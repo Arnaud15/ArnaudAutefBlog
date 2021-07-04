@@ -1,1 +1,1 @@
-Sitemap: https://www.arnaudautef.com/sitemap.xml
+Sitemap: https://arnaudautef.com/sitemap.xml
