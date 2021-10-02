@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-![]({{ site.baseurl }}/images/pic.JPG)
+![]({{ site.baseurl }}/images/pic.jpg)
 
 Hello! My name is Arnaud Autef.
 
