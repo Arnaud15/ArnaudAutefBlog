@@ -3,9 +3,9 @@
     
         "post0": {
             "title": "Hello",
-            "content": "In the meantime, please do check out some of my public posts for the Sisu Machine Learning reading group: . The LassoNet | Simple Bayesian Algorithms for Best Arm Identification | The R-learner | The Synthetic Controls method | .",
-            "url": "https://arnaudautef.com/markdown/2021/07/03/first-post.html",
-            "relUrl": "/markdown/2021/07/03/first-post.html",
+            "content": "Here is a list of my public presentations for the Sisu Machine Learning Reading group. For each paper, I explain the motivation behind the algorithm or technique presented and re-work the main proof in details (for papers with theory). . The LassoNet | Simple Bayesian Algorithms for Best Arm Identification | The R-learner | The Synthetic Controls method | .",
+            "url": "https://arnaudautef.com/machine%20learning/2021/07/03/first-post.html",
+            "relUrl": "/machine%20learning/2021/07/03/first-post.html",
             "date": " • Jul 3, 2021"
         }
         
