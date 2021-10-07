@@ -1,14 +1,14 @@
 ---
 toc: true
+comments: true
 hide: false
 layout: post
-comments: true
-description: First blog posts incoming
-categories: [markdown]
+description: Public ML reading group presentations at Sisu Data
+categories: [machine learning]
 title: Hello
 ---
 
-In the meantime, please do check out some of my public posts for the Sisu Machine Learning reading group:
+Here is a list of my public presentations for the Sisu Machine Learning Reading group. For each paper, I explain the motivation behind the algorithm or technique presented and re-work the main proof in details (for papers with theory).
 - [The LassoNet](https://sisudata.com/blog/learning-unsupervised/lassonet-june-29-2021)
 - [Simple Bayesian Algorithms for Best Arm Identification](https://sisudata.com/blog/learning-unsupervised/simple-bayesian-algorithms-best-arm-identification)
 - [The R-learner](https://sisudata.com/blog/learning-unsupervised/r-learner-december-7-2020)
