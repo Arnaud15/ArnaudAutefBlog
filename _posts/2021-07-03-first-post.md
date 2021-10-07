@@ -2,6 +2,7 @@
 toc: true
 hide: false
 layout: post
+comments: true
 description: First blog posts incoming
 categories: [markdown]
 title: Hello
