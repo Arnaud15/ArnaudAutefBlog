@@ -5,7 +5,7 @@ hide: false
 layout: post
 description: Public ML reading group presentations at Sisu Data
 categories: [machine learning]
-title: Hello
+title: Sisu Machine Learning Reading group
 ---
 
 Here is a list of my public presentations for the Sisu Machine Learning Reading group. For each paper, I explain the motivation behind the algorithm or technique presented and re-work the main proof in details (for papers with theory).
