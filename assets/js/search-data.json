@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Regularized Mlps",
-            "content": ". toc: true comments: true hide: false layout: post description: Paper presentation for the Sisu Machine Learning reading group. categories: [Deep Learning] title: Are regularized MLPs state-of-the-art on tabular data? — . Find out here .",
-            "url": "https://arnaudautef.com/2021/10/10/regularized-mlps.html",
-            "relUrl": "/2021/10/10/regularized-mlps.html",
+            "title": "Are regularized MLPs state-of-the-art on tabular data?",
+            "content": "Find out here .",
+            "url": "https://arnaudautef.com/deep%20learning/2021/10/10/regularized-mlps.html",
+            "relUrl": "/deep%20learning/2021/10/10/regularized-mlps.html",
             "date": " • Oct 10, 2021"
         }
         
