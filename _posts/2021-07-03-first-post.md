@@ -3,9 +3,9 @@ toc: true
 comments: true
 hide: false
 layout: post
-description: Presentations at Sisu Data's Machine Learning reading group
+description: Past presentations at Sisu Data's Machine Learning reading group
 categories: []
-title: Sisu Machine Learning Reading group
+title: Past reading group talks
 ---
 
 I run Sisu's Machine Learning Reading group, and contribute to it regularly. Here are my most recent public presentations:
