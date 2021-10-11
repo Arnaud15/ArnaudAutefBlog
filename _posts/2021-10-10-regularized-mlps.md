@@ -1,10 +1,9 @@
-
 ---
 toc: true
 comments: true
 hide: false
 layout: post
-description: Paper presentation for the Sisu Machine Learning reading group.
+description: Paper presentation for the Sisu Data's Machine Learning reading group.
 categories: [Deep Learning]
 title: Are regularized MLPs state-of-the-art on tabular data?
 ---
