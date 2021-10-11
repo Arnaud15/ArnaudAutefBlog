@@ -6,9 +6,9 @@ permalink: /about/
 
 ![]({{ site.baseurl }}/images/pic.jpg)
 
-Hello! My name is Arnaud Autef.
+Hello! My name is Arnaud Autef, welcome to my personal website.
 
-On this personal website, I post about Machine Learning, Statistics and Optimization. Some more specific topics that I follow more closely are Reinforcement and Bandit Learning, Natural Language Processing, the big "representation learning" bucket in Deep Learning (e.g: constrastive learning), and Bayesian Deep Learning.
+Here, I post about Machine Learning, Statistics and Optimization. Some more specific topics that I follow more closely are Reinforcement and Bandit Learning, Natural Language Processing, the big "representation learning" bucket in Deep Learning (e.g: constrastive learning), and Bayesian Deep Learning.
 
 I use the fastpages website template to make it easy for readers to leave comments, and I am very much looking forward to feedback there! If comments are not for you, feel free to send me an email (firstname.lastname at gmail).
 
