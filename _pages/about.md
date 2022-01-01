@@ -30,10 +30,10 @@ Prior to joining Sisu, I was a MSc student in Management Science and Engineering
 During my time at Stanford, I spent 6 months building a recommendation system in Jure Leskovec's [SNAP research group](http://snap.stanford.edu/), as a Research Assistant. I was a teaching assistant for two classes: [CS224N](http://web.stanford.edu/class/cs224n/) with Prof. Christopher Manning (Natural Language Processing with Deep Learning) and [CS236](https://deepgenerativemodels.github.io/) (Deep Generative Models) with Prof. Stefano Ermon. 
 
 
-In summer 2019, I interned at Microsoft in Redmond and used statistics and bandit learning to improve hardware failures mitigation in Azure Compute.
+I was also very fortunate to spend 6 months doing research on Information Direction Sampling (IDS) for the Assortment Optimization problem, supervised by Dr. Xiuyuan Lu and Professor Benjamin Van Roy. I first experimented with ideas around a "greedy" version of IDS, presented my findings in a [reading group talk](https://docs.google.com/presentation/d/1-JmTivVVgy-DbNXRVznDvFI_uoTUQ5aj/edit?usp=sharing&ouid=106255424794425072671&rtpof=true&sd=true) and wrote them up a [report](https://drive.google.com/file/d/1vBHfSFscriZ8RrlVahtOn0VtIOi8PahT/view?usp=sharing). I came back to the topic in 2020 while working at Sisu, inspired by a lecture from Tore Lattimore on IDS: I obtained two theoretical results on the simple form of IDS solutions with independent item-level information gains, and information theoretic regret bounds for Thompson Sampling on the assortment optimization problem. See [there](https://wise-turret-40a.notion.site/PRESENTATION-Information-Directed-Sampling-on-Combinatorial-Action-Sets-96ed3bf35c4e42e1b3b59e2bb41ec29f) for an overview of those latest findings, and happy to answer questions about proofs details.
 
 
-I was also fortunate to spend 6 months doing research on the Assortment Optimization problem, supervised by Dr. Xiuyuan Lu and Professor Benjamin Van Roy.
+Finally, during my summer 2019 at Stanford, I interned at Microsoft in Redmond and used statistics and bandit learning to improve hardware failures mitigation in Azure Compute.
 
 
 Before Stanford, I interned for 5 months at IBM Research Singapore with Dr. Shiau Hong Lim. We published our research in Reinforcement Learning theory at ICML 2019, where I presented our paper ["Kernel based reinforcement learning in Robust Markov Decision Processes"](https://proceedings.mlr.press/v97/lim19a.html).
