@@ -37,10 +37,10 @@ url: "https://arnaudautef.com" # the base hostname & protocol for your site, e.g
 baseurl: "" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
-minima:
-  social_links:
-    twitter: arnaud_autef
-    github: Arnaud15
+# minima:
+#   social_links:
+#     twitter: arnaud_autef
+#     github: Arnaud15
 
 # Set this to true to get LaTeX math equation support
 use_math: 
